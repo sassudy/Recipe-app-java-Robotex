@@ -6,7 +6,7 @@
 - Johannes Kiigemägi
 - Braian Bergmann
 
-# MPV User Stories
+# MVP User Stories
 - API Calls (https://www.pivotaltracker.com/story/show/182086054)
 - Database (https://www.pivotaltracker.com/story/show/182086262)
 - Recipe recommendations (https://www.pivotaltracker.com/story/show/182086867)
